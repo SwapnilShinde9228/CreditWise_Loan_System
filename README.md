@@ -10,7 +10,7 @@ biased & inconsistent.
 As a result, the bank faces two major challenges:
 1. Good customers sometimes get rejected, leading to loss of business.
 2. High-risk customers sometimes get approved, leading to financial losses.
-swapnilshinde9779@gmail.com
+
 To solve this problem, the bank wants to introduce an intelligent loan approval
 system powered by Machine Learning that can automatically analyse applicant
 details and predict whether a loan should be Approved or Rejected before final
@@ -22,7 +22,7 @@ unbiased loan approval decisions.
 Dataset Description
 Each row in the dataset represents a loan applicant and contains multiple
 attributes describing their personal, financial, and credit information.
-swapnilshinde9779@gmail.com
+
 Column Description
 Applicant_ID Unique applicant ID
 Applicant_Income Monthly income of applicant
